@@ -1,0 +1,15 @@
+{
+  "name": "my_work",
+  "version": "1.0.0",
+  "devDependencies": {
+    "del": "2.2.2",
+    "gulp": "3.9.1",
+    "gulp-autoprefixer": "3.1.1",
+    "gulp-connect": "5.0.0",
+    "gulp-fontmin": "0.7.4",
+    "gulp-notify": "3.0.0",
+    "gulp-pug": "3.3.0",
+    "gulp-sass": "3.1.0",
+    "run-sequence": "1.2.2"
+  }
+}

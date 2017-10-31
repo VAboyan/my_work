@@ -1,0 +1,7 @@
+# Front-end
+node_modules/
+npm-debug.log
+build/
+
+
+.idea/
